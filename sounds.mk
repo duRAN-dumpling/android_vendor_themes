@@ -135,7 +135,8 @@ PRODUCT_COPY_FILES += \
 	vendor/themes/sounds/ringtones/Triton.ogg:system/media/audio/ringtones/Triton.ogg \
 	vendor/themes/sounds/ringtones/Umbriel.ogg:system/media/audio/ringtones/Umbriel.ogg \
 	vendor/themes/sounds/ringtones/Zen.ogg:system/media/audio/ringtones/Zen.ogg \
-	vendor/themes/sounds/ringtones/Zen_too.ogg:system/media/audio/ringtones/Zen_too.ogg
+	vendor/themes/sounds/ringtones/Zen_too.ogg:system/media/audio/ringtones/Zen_too.ogg \
+        vendor/themes/sounds/ringtones/Duo.ogg:system/media/audio/ringtones/Duo.ogg 
 
 PRODUCT_PROPERTY_OVERRIDES += \
    ro.config.ringtone=Zen_too.ogg \
